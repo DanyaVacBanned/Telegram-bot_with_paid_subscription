@@ -7,8 +7,8 @@ import navigation as nav
 import time
 import datetime
 logging.basicConfig(level=logging.INFO)
-YOOTOKEN = '381764678:TEST:39285'
-bot = Bot(token='5554719804:AAFXHnK3ctqjQ6l5ImyFB7rhAxfEHVb3o7E')
+YOOTOKEN = 'YOOCASSA TOKEN'
+bot = Bot(token='BOT TOKEN')
 dp=Dispatcher(bot)
 
 db = Database('db.db')
